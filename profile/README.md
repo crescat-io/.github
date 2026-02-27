@@ -1,15 +1,16 @@
-## placeholder text here
+<p align="center">
+<img alt="Banner" style="width: 100%; max-width: 800px;" src="https://github.com/user-attachments/assets/852365ff-7482-439f-8dc4-5c8b0465db44" />
+</p>
 
+**Crescat is a powerful event management platform built for the live events industry, helping venues, festivals, and promoters streamline their entire production workflow.** 
 
-**Ex ex velit occaecat velit. Eu culpa sint excepteur proident. Irure aute veniam sunt Lorem nostrud excepteur ad sint cupidatat officia do. Dolor excepteur ea nostrud proident. Nisi ullamco anim esse. Pariatur officia commodo laboris labore minim excepteur minim eu aliquip eiusmod laborum duis. Fugiat esse qui velit aliqua. Nulla laboris reprehenderit esse.**
+With tools built by event professionals and shaped by real-world feedback, you can focus on what makes your events unforgettable. Crescat gives you production tools you won't outgrow — a cohesive set of purpose-built features that adapt as your organisation scales in complexity.
 
-<!--
+- **Scheduler** — Visualise, plan, and perfect your festival schedule with intuitive drag-and-drop.
+- **Rooms Manager** — Streamline room allocation and scheduling for seamless venue operations.
+- **Performances** — Coordinate all your artists, talent bookings, and advancing in one place.
+- **Running Order** — Create production cue sheets or run them live as the show caller.
+- **Guest Lists** — Manage accreditations, guest lists, and access control across your events.
+- **Dashboard** — Get a bird's-eye view over all your events, tasks, and team activity.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Get Started](https://crescat.io/signup) • [Book a Demo](https://crescat.io/meeting) • [Explore Features](https://crescat.io/features)
